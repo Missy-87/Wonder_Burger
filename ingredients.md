@@ -1,3 +1,10 @@
 Ingredients
 "Bottom Bun"
+"butter or margarine"
+"lettuce"
+"tomato"
+"cuccumber"
+"chesse" 
+"Burger Pattie"
+"BBQ sauce"
 "Top Bun"
