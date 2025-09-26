@@ -1,2 +1,2 @@
-# Wonder_Burger
-How to make a Wonder Burger
+# Olympics Dashboard project
+Startup files for the project
